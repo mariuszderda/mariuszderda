@@ -54,22 +54,31 @@ def compare (a, b):
 
 # wartość_bezwzgledna(input_number)
 
-input_number1 = int(input("Podaj pierwszą liczbę: "))
-input_number2 = int(input("Podaj drugą liczbę: "))
-input_action_number = int(input("""
-############## Co chcesz zrobic  ##############
-## 1 - porównaj liczby                       ##
-## 2 - zwróć wartość bezwzględną             ##
-## 3 - pomnóż                                ##
-###############################################
-"""))
+while True:
+    input_number1 = int(input("Podaj pierwszą liczbę: "))
+    input_number2 = int(input("Podaj drugą liczbę: "))
+    input_action_number = int(input("""
+    ############## Co chcesz zrobic  ##############
+    ## 1 - porównaj liczby                       ##
+    ## 2 - zwróć wartość bezwzględną             ##
+    ## 3 - pomnóż                                ##
+    ##  X - zakończ program                      ##
+    ###############################################
+    """))
 
-if(input_action_number == 1):
-    compare(input_number1, input_number2)
-elif (input_action_number == 2):
-    wartość_bezwzgledna(input_number1)
-    wartość_bezwzgledna(input_number1)
-elif (input_action_number == 3):
-    multiply(input_number1, input_number2)
-else:
-    print("Nie właściwy wybór")
+    if(input_action_number == 1):
+        compare(input_number1, input_number2)
+        continue
+    elif (input_action_number == 2):
+        wartość_bezwzgledna(input_number1)
+        wartość_bezwzgledna(input_number1)
+        continue
+    elif (input_action_number == 3):
+        multiply(input_number1, input_number2)
+        continue
+    elif (input_action_number == 'x'):
+        break
+    else:
+        print("Nie właściwy wybór")
+
+
