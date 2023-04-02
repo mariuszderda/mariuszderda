@@ -4,7 +4,7 @@
 
 
 
-To tyle o mnie, o reszę możesz zapytać 
+To tyle o mnie, o resztę możesz zapytać 
 
 <!--
 **mariuszderda/mariuszderda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
