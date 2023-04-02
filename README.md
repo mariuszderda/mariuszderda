@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-#### 🌱 Aktualnie studuiję informatykę na Akademii Górnośląskiej.
+#### 🌱 I am currently studying computer science at the Akademia Górnośląska.
+
+
 
 To tyle o mnie, o reszę możesz zapytać 
 
