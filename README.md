@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### 🌱 Aktualnie studuiję informatykę na Akademii Górnośląskiej.
+
+To tyle o mnie, o reszę możesz zapytać 
+
 <!--
 **mariuszderda/mariuszderda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
