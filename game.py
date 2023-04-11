@@ -30,7 +30,7 @@ while True:
     numbers.sort()
 
     computer_number = int(choice(range(int(numbers[0]), int(numbers[1]))))
-    print('Computer number: ' + str(computer_number))
+    # print('Computer number: ' + str(computer_number))
 
     while True:
         user_number = int(input("Jak myślisz jaka to liczba?"))
