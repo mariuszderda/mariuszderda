@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b5&height=220&section=header&text=Mariusz%20Derda&fontSize=70&fontAlignY=35&desc=Data%20Analyst%20%26%20Manager%20%7C%20Business%20Background&descAlignY=60&descAlign=50" alt="Mariusz Derda Banner" width="100%">
-</div>
-
 ### <div align="center">👋 Hi, I'm Mariusz!</div>
 
 <div align="center">
@@ -43,17 +39,6 @@ Here are the projects that demonstrate my ability to deliver complete solutions 
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=mariuszderda&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Mariusz Derda's GitHub Stats" />
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariuszderda&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
-</a>
-</div>
-
----
-
 ### 📬 Contact
 
 I am looking for a role where I can utilize my unique mix of managerial perspective and engineering skills. Let's talk!
@@ -62,11 +47,5 @@ I am looking for a role where I can utilize my unique mix of managerial perspect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariusz-derda)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dm@mariuszderda.pl)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+48791614447)
 
-</div>
-
----
-<div align="center">
-  <small><i>Profile generated based on CV data. Last update: 2024</i></small>
 </div>
